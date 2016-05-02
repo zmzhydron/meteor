@@ -1,4 +1,5 @@
 {
+
   "name": "meteorTest",
   "private": true,
   "scripts": {
@@ -7,4 +8,5 @@
   "dependencies": {
     "meteor-node-stubs": "~0.2.0"
   }
+
 }
